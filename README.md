@@ -1,3 +1,8 @@
+1`0/9/2022
+WOuld LIKE TO add some zoom animation to the donation section and image when hover.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
